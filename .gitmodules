@@ -1,3 +1,6 @@
 [submodule "subDir/eCommerce"]
 	path = subDir/eCommerce
 	url = https://github.com/codingforentrepreneurs/eCommerce.git
+[submodule "subDir1/eCommerce"]
+	path = subDir1/eCommerce
+	url = https://github.com/codingforentrepreneurs/eCommerce.git
